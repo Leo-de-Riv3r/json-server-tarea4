@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run fake-api",
-    "fake-api": "json-server --watch ./db.json"
+    "fake-api": "json-server --watch ./db.json",
+    "heroku-postbuild": "echo npm start.",
+  "heroku-cleanup": "echo npm start"
   },
   "keywords": [],
   "author": "",
