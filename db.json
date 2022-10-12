@@ -1,4 +1,5 @@
-  {"products": [
+{
+  "products": [
     {
       "id": "1",
       "name": "motherboard",
@@ -107,7 +108,7 @@
     {
       "id": "8",
       "name": "Procesador gamer Intel Core i5-11400F BX8070811400F de 6 núcleos y 4.4GHz de frecuencia",
-      "category":"Microprocesadores",
+      "category": "Microprocesadores",
       "description": "Productividad y entretenimiento, todo disponible en tu computadora de escritorio. La superioridad tecnológica de INTEL es un beneficio para todo tipo de profesionales. Asegura el mejor rendimiento de las aplicaciones, de la transferencia de datos y la conexión con otros elementos tecnológicos. Núcleos: el corazón del procesador. En este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.",
       "price": 45000.98,
       "stock": 277,
@@ -125,8 +126,8 @@
       "description": "Si tu computadora funciona con lentitud, si un programa no responde o no se carga, lo más probable es que se trate de un problema de memoria. Estos son posibles indicios de un rendimiento defectuoso en el día a día de tus tareas. Por ello, contar con una memoria Kingston -sinónimo de trayectoria y excelencia- mejorará la productividad de tu equipo: las páginas se cargarán más rápido y la ejecución de nuevas aplicaciones resultará más ágil y simple.Potenciá tu PC.Con su tecnología DDR4, mejorará el desempeño de tu equipo, ya que aumentará la fluidez y la velocidad en la transferencia de datos ¡Optimizá al máximo el rendimiento de tu computadora y reducí el consumo energético!.Tu equipo como nuevo.Esta memoria es ideal para tu Computadoras de escritorio. ¡Instalala y comenzá a disfrutar de un óptimo funcionamiento!",
       "price": 11000.99,
       "stock": 4,
-      "favorite":false,
-      "images":[
+      "favorite": false,
+      "images": [
         "https://http2.mlstatic.com/D_NQ_NP_612752-MLA48636149729_122021-O.webp",
         "https://http2.mlstatic.com/D_Q_NP_899160-MLA48636298242_122021-R.webp",
         "https://http2.mlstatic.com/D_Q_NP_914690-MLA48636149731_122021-R.webp"
@@ -134,13 +135,13 @@
     },
     {
       "id": "10",
-      "name":"Procesador gamer AMD Ryzen 5 5600G 100-100000252BOX de 6 núcleos y 4.4GHz de frecuencia con gráfica integrada",
+      "name": "Procesador gamer AMD Ryzen 5 5600G 100-100000252BOX de 6 núcleos y 4.4GHz de frecuencia con gráfica integrada",
       "category": "Microprocesadores",
       "description": "Clave en el rendimiento de tu computadora de escritorio, ya no tenés que pensar en cómo distribuir el tiempo y acciones porque ahora las tareas en simultáneo son posibles.AMD cuenta con un catálogo de productos que se adaptan a los requerimientos de todo tipo de usuarios: juegos en línea, edición a gran escala, contenido en múltiples plataformas y más.Núcleos: el corazón del procesador.En este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.Máxima potencia.Al estar desbloqueado, podrás realizar overclocking y así aumentar la frecuencia de funcionamiento y optimizar el rendimiento de tu equipo. Personalizalo a tu gusto y disfrutá de tus videojuegos o hacé que la renderización de imágenes sea más ágil. ¡Descubrí el abanico de posibilidades que esta función te ofrece!",
       "price": 50100,
       "stock": 10,
       "favorite": false,
-      "images":[
+      "images": [
         "https://http2.mlstatic.com/D_Q_NP_928642-MLA47847420037_102021-R.webp",
         "https://http2.mlstatic.com/D_Q_NP_683821-MLA51325230641_082022-R.webp",
         "https://http2.mlstatic.com/D_Q_NP_875563-MLA51325230643_082022-R.webp",
@@ -160,7 +161,7 @@
         "color": "#A3ACBE",
         "transition": "1.5s "
       },
-      "styleHover":{
+      "styleHover": {
         "color": "#3CDCFF",
         "transition": "1.5s "
       }
@@ -174,7 +175,7 @@
         "color": "#A3ACBE",
         "transition": "1.5s "
       },
-      "styleHover":{
+      "styleHover": {
         "color": "#3CDCFF",
         "transition": "1.5s "
       }
@@ -228,6 +229,16 @@
     {
       "id": 12,
       "name": "Perifericos"
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "src": "https://compragamer.net/categorias_demo/defaultAngular.jpg"
+    },
+    {
+      "id": 2,
+      "src": "https://ftp.roc.com.bd/uploads/products/web1389-3443.jpg"
     }
   ]
 }
